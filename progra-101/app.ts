@@ -1,1 +1,9 @@
-console.log('Hola mundo');
+let gasTank = 50;
+
+while (gasTank) {
+    console.log('Gasolina restante', gasTank);
+
+    gasTank--;
+}
+
+console.log('Ya no tiene gasolina');

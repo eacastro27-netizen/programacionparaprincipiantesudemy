@@ -1,3 +1,3 @@
 Sección 3
-32 Ciclo whilw
+33 Ciclo Do while
 e
